@@ -33,11 +33,3 @@ I provide multiple ways for visitors to get in touch with me, such as:
 - Links to my social media profiles (LinkedIn, Twitter, GitHub, etc.).
 - A contact form that visitors can use to send me a message directly from the website.
 
-## Getting Started
-
-If you'd like to run this website locally or contribute to it, follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/your-portfolio-website.git
